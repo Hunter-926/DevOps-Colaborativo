@@ -2,4 +2,5 @@ jupyterlab
 pandas
 numpy
 matplotlib
-scikit-learn 
+scikit-learn
+psycopg2-binary
